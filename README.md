@@ -1,6 +1,6 @@
 # File Encryption Tool — GUI 
 
-## التشغيل 
+## التشغيل (startup) 
 ## من (powershell) 
 ## cd (file_encryption_tool directory)
 
